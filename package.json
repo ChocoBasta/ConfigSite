@@ -2,7 +2,7 @@
   "name": "configsite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chocobasta.github.io/ConfigSite",
+  "homepage": "https://chocobasta.github.io/ConfigSite/",
   "dependencies": {
     "@types/node": "^16.18.0",
     "@types/react": "^18.0.0",
