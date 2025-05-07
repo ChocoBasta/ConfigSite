@@ -1,13 +1,31 @@
 # ConfigSite
 
-A modern web application built with React and TypeScript.
+A modern website built with React and TypeScript.
+
+## Visit the Website
+
+You can visit the website at: [https://chocobasta.github.io/ConfigSite](https://chocobasta.github.io/ConfigSite)
+
+No installation or downloads required! Just click the link above to view the website in your browser.
 
 ## Features
 
 - Modern UI with responsive design
-- TypeScript for type safety
-- React for component-based architecture
-- CSS Modules for scoped styling
+- Clean and professional look
+- Easy navigation
+- Mobile-friendly layout
+
+## Pages
+
+- **Home**: Welcome page with feature highlights
+- **About**: Information about the project and technology stack
+
+## Technology Stack
+
+- React 18
+- TypeScript
+- CSS Modules
+- GitHub Pages for hosting
 
 ## Getting Started
 
