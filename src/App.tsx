@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './styles/App.css';
 
 // Import pages
@@ -13,8 +13,8 @@ const App: React.FC = () => {
         <header className="app-header">
           <h1>ConfigSite</h1>
           <nav>
-            <a href="#/">Home</a>
-            <a href="#/about">About</a>
+            <Link to="/">Home</Link>
+            <Link to="/about">About</Link>
           </nav>
         </header>
         
